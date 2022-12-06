@@ -1,5 +1,3 @@
-extern crate love_rust;
-
 #[macro_use]
 mod macros {
     #[macro_export]
