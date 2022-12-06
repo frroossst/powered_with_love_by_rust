@@ -2,6 +2,9 @@
 name = "love_rust"
 version = "0.1.0"
 edition = "2021"
+description = "so I don't have to re-write the same thing everytime"
+license = "MIT"
+authors = ["Adhyan H. <adhyanpatel@gmail.com>"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
