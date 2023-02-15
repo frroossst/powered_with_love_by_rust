@@ -12,6 +12,6 @@ Tell everyone that your project is powered with love by Rust
     use love_rust::love_rust;
 
     fn main() {
-        love_rust!();
+        println!("{}", love_rust!("my_project")) // "my_project: powered with <3 by Rust"
     }
 ```
